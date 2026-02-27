@@ -1,17 +1,15 @@
 # faadingnightmaares
 
-Full-stack AI engineer.
+Full-stack AI engineer · age: ![Age](https://img.shields.io/badge/dynamic/json?label=&query=$.age&url=https://raw.githubusercontent.com/faadingnightmaares/faadingnightmaares/main/age.json&color=238636&labelColor=0d1117&style=flat)
 
 I build systems around models.
 
 Rust, Go, Python on the backend.  
 TypeScript on the frontend.  
 Desktop AI with Tauri.  
-Reactive UI with React and Svelte.  
+Reactive UI with React and Svelte.
 
 Experience with cloud infrastructure and architecture.
-
-![Age](https://img.shields.io/badge/dynamic/json?label=runtime%20age&query=$.age&url=https://raw.githubusercontent.com/faadingnightmaares/faadingnightmaares/main/age.json&color=238636&labelColor=0d1117&style=for-the-badge)
 
 
 ## Focus
