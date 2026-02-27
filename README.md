@@ -9,6 +9,8 @@ TypeScript on the frontend.
 Desktop AI with Tauri.  
 Reactive UI with React and Svelte.
 
+Usable cloud experience. Cloud architecture.
+
 
 ## Focus
 
@@ -19,13 +21,14 @@ Reactive UI with React and Svelte.
 - Inference pipelines
 - Tooling around LLMs
 - High-performance APIs
+- Cloud architecture
 - Systems design
 
 
 ## Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="36" height="36" alt="Rust"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="36" height="36" alt="Rust"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36" height="36" alt="Go"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/>
@@ -53,6 +56,7 @@ Reactive UI with React and Svelte.
 - Async service design
 - Memory-aware model loading
 - Evaluation and prompt iteration
+- Cloud architecture for deploy/scale/ops
 
 
 ## Activity
@@ -74,4 +78,9 @@ Reactive UI with React and Svelte.
 
 ---
 
-## tiny cozy cli game
+## tiny cozy game (readme-compatible)
+
+Choose a path.
+
+<details>
+  <summary>1) optimize latency</summary>
