@@ -36,12 +36,17 @@ Reactive UI with React and Svelte.
 </p>
 
 
+## Backend
+
+- Go for CLIs + backends (Fiber)
+- Rust for CLIs + backends (Axum)
+- Python for model workers / eval / glue
+
+
 ## Systems
 
 - RAG architecture (chunking, embeddings, indexing, reranking)
 - Hybrid search (BM25 + vector)
-- Async Rust/Go services
-- Python model workers
 - Streaming inference
 - Memory-aware model loading
 - Evaluation + prompt iteration
@@ -63,12 +68,6 @@ Reactive UI with React and Svelte.
   />
 </p>
 
-
-## Contributions
-
-<p align="left">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=faadingnightmaares&theme=darkhub&no-frame=true&margin-w=8&row=1&column=6"
-    alt="trophies"
-  />
-</p>
+Interactive:
+- Contribution calendar: https://github.com/faadingnightmaares
+- Activity view: https://github.com/faadingnightmaares?tab=overview&from=2026-01-01&to=2026-12-31
