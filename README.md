@@ -9,7 +9,7 @@ TypeScript on the frontend.
 Desktop AI with Tauri.  
 Reactive UI with React and Svelte.
 
-Usable cloud experience. Cloud architecture.
+Experience with cloud infrastructure and architecture.
 
 
 ## Focus
@@ -28,7 +28,7 @@ Usable cloud experience. Cloud architecture.
 ## Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="36" height="36" alt="Rust"/>
+  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="36" height="36" alt="Rust"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36" height="36" alt="Go"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/>
@@ -56,7 +56,7 @@ Usable cloud experience. Cloud architecture.
 - Async service design
 - Memory-aware model loading
 - Evaluation and prompt iteration
-- Cloud architecture for deploy/scale/ops
+- Scalable cloud deployment patterns
 
 
 ## Activity
@@ -74,13 +74,3 @@ Usable cloud experience. Cloud architecture.
     alt="streak stats"
   />
 </p>
-
-
----
-
-## tiny cozy game (readme-compatible)
-
-Choose a path.
-
-<details>
-  <summary>1) optimize latency</summary>
