@@ -1,0 +1,38 @@
+name: Update Age
+
+on:
+  schedule:
+    - cron: '0 0 4 10 *'
+  workflow_dispatch:
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Calculate Age
+        run: |
+          birth_year=2004
+          birth_month=10
+          birth_day=4
+
+          current_year=$(date +%Y)
+          current_month=$(date +%m)
+          current_day=$(date +%d)
+
+          age=$((current_year - birth_year))
+
+          if [ "$current_month" -lt "$birth_month" ] || { [ "$current_month" -eq "$birth_month" ] && [ "$current_day" -lt "$birth_day" ]; }; then
+            age=$((age - 1))
+          fi
+
+          echo "{ \"age\": $age }" > age.json
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add age.json
+          git commit -m "Update age" || echo "No changes to commit"
+          git push
