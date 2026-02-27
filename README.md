@@ -50,16 +50,25 @@ Reactive UI with React and Svelte.
 ## Activity
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faadingnightmaares&hide_border=true&radius=8&area=true" alt="activity graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=faadingnightmaares&bg_color=0d1117&color=8b949e&line=39d353&point=39d353&area=true&area_color=238636&hide_border=true"
+    alt="activity graph"
+  />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=faadingnightmaares&hide_border=true" alt="streak stats"/>
+  <img
+    src="https://streak-stats.demolab.com?user=faadingnightmaares&theme=github-dark-blue&hide_border=true"
+    alt="streak stats"
+  />
 </p>
 
 
 ## Contributions
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=faadingnightmaares&no-frame=true&row=1&column=7" alt="trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=faadingnightmaares&theme=darkhub&no-frame=true&margin-w=8&row=1&column=6"
+    alt="trophies"
+  />
 </p>
