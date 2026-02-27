@@ -1,16 +1,52 @@
-## Hi there 👋
+# faadingnightmaares
 
-<!--
-**faadingnightmaares/faadingnightmaares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack AI engineer.
 
-Here are some ideas to get you started:
+I build systems around models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Rust, Go, Python on the backend.
+TypeScript on the frontend.
+Desktop AI with Tauri.
+Reactive UI with React and Svelte.
+
+
+## Focus
+
+- RAG systems
+- Retrieval pipelines
+- Vector indexing
+- Embeddings + reranking
+- Inference pipelines
+- Tooling around LLMs
+- Local-first AI
+- High-performance APIs
+- Systems design
+
+
+## Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tauri.svg" width="40" height="40"/>
+</p>
+
+
+## Systems
+
+- RAG architecture (chunking, embeddings, indexing, reranking)
+- Hybrid search (BM25 + vector)
+- Async Rust/Go services
+- Python model workers
+- Streaming inference
+- Memory-aware model loading
+- Evaluation + prompt iteration
+
+
+## GitHub
+
+![stats](https://github-readme-stats.vercel.app/api?username=faadingnightmaares&show_icons=true&hide_title=true&hide_border=true)
