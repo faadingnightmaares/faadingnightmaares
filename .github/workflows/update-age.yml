@@ -27,12 +27,12 @@ jobs:
             age=$((age - 1))
           fi
 
-          echo "{ \"age\": $age }" > age.json
+          sed -i "s/<!-- AGE_START -->.*<!-- AGE_END -->/<!-- AGE_START -->$age<!-- AGE_END -->/" README.md
 
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add age.json
+          git add README.md
           git commit -m "Update age" || echo "No changes to commit"
           git push
