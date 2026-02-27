@@ -4,9 +4,9 @@ Full-stack AI engineer.
 
 I build systems around models.
 
-Rust, Go, Python on the backend.
-TypeScript on the frontend.
-Desktop AI with Tauri.
+Rust, Go, Python on the backend.  
+TypeScript on the frontend.  
+Desktop AI with Tauri.  
 Reactive UI with React and Svelte.
 
 
@@ -18,7 +18,6 @@ Reactive UI with React and Svelte.
 - Embeddings + reranking
 - Inference pipelines
 - Tooling around LLMs
-- Local-first AI
 - High-performance APIs
 - Systems design
 
@@ -26,21 +25,24 @@ Reactive UI with React and Svelte.
 ## Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="34" height="34" alt="Rust"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="34" height="34" alt="Go"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="34" height="34" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="34" height="34" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="34" height="34" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="34" height="34" alt="Svelte"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tauri.svg" width="34" height="34" alt="Tauri"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="36" height="36" alt="Rust"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36" height="36" alt="Go"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="36" height="36" alt="Svelte"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" width="36" height="36" alt="Tauri"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#"/>
 </p>
 
 
 ## Backend
 
-- Go for CLIs + backends (Fiber)
-- Rust for CLIs + backends (Axum)
-- Python for model workers / eval / glue
+- Go for CLIs and APIs (Fiber)
+- Rust for CLIs and APIs (Axum)
+- Python for model workers, evaluation, orchestration
+- OpenRouter integrations for model routing
 
 
 ## Systems
@@ -48,8 +50,9 @@ Reactive UI with React and Svelte.
 - RAG architecture (chunking, embeddings, indexing, reranking)
 - Hybrid search (BM25 + vector)
 - Streaming inference
+- Async service design
 - Memory-aware model loading
-- Evaluation + prompt iteration
+- Evaluation and prompt iteration
 
 
 ## Activity
@@ -68,6 +71,7 @@ Reactive UI with React and Svelte.
   />
 </p>
 
-Interactive:
-- Contribution calendar: https://github.com/faadingnightmaares
-- Activity view: https://github.com/faadingnightmaares?tab=overview&from=2026-01-01&to=2026-12-31
+
+---
+
+## tiny cozy cli game
