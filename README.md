@@ -1,6 +1,6 @@
 # faadingnightmaares
 
-Full-stack AI engineer · age: ![Age](https://img.shields.io/badge/dynamic/json?label=&query=$.age&url=https://raw.githubusercontent.com/faadingnightmaares/faadingnightmaares/main/age.json&color=238636&labelColor=0d1117&style=flat)
+Full-stack AI engineer (age: <!-- AGE_START -->21<!-- AGE_END -->)
 
 I build systems around models.
 
