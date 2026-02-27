@@ -11,7 +11,7 @@ Reactive UI with React and Svelte.
 
 Experience with cloud infrastructure and architecture.
 
-![Age](https://img.shields.io/badge/dynamic/json?label=age&query=$.age&url=https://raw.githubusercontent.com/faadingnightmaares/faadingnightmaares/main/age.json&color=0d1117&labelColor=161b22&style=for-the-badge)
+![Age](https://img.shields.io/badge/dynamic/json?label=runtime%20age&query=$.age&url=https://raw.githubusercontent.com/faadingnightmaares/faadingnightmaares/main/age.json&color=238636&labelColor=0d1117&style=for-the-badge)
 
 
 ## Focus
