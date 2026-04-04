@@ -9,7 +9,7 @@ TypeScript on the frontend.
 Desktop AI with Tauri.  
 Reactive UI with React and Svelte.
 
-Experience with cloud infrastructure and architecture.
+a bit Experienced with cloud infrastructure and architecture.
 
 
 ## Focus
